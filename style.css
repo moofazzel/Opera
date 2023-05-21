@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Inter:wght@500;700&display=swap");
+
+* {
+  font-family: "DM Sans", sans-serif;
+}
+
+h1,
+button {
+  font-family: "Inter", sans-serif !important;
+}
+
+.hero-bg {
+  background: url(./images/bg.svg) no-repeat center center/cover;
+}
+
+.bg-pattern {
+  background-image: url(./images/parttern.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
